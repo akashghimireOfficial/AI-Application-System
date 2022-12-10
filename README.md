@@ -52,6 +52,10 @@ In this week we learned about theoretical and coding aspects of Convulutional Ne
 
 ## Week 9
 
+In the first session of this week we learn to predict the housing price using linear regression. For this we use famous **Boston Housing** Dataset.
+
+In the second session of this week, we learn how to handle overfitting during training of dataset. We learned about **Regularization, L2 and Dropout Layer** and implemented them in the code aswell. At the end we analyse the effective of Dropout and Regularization on overfitting and training problem.
+ 
 
 
   
