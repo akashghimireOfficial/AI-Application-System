@@ -77,15 +77,28 @@ In this sesssion, we predicted the sales of books using RNN network.
 
 ## Week 12
 
+In this week we learn about weather forecast using RNN, LSTM.
+<br>
+Furthermore, in the coding session we also learned things like how we can build simple RNN using numpy. We learn how to use LSTM,GRU, and Bidirectional LSTM using keras.
 
 <br>
-
 
 
 ## Week 13
 
+In this week we learned about Natural Language Processing (NLP).
+> Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. (src:Wikipedia)
+
+In this week, we learn how words are reprensented in machine learning. We learn about important aspect of NLP such as  **word embedding, text vectorization, One hot encodding.**  
+<br>
+We had two session of coding. In both of these session we used RNN based model and codes were implemented in **tensorflow** framework .
 
 <br>
 
-
 ## Week 14 
+Like week 13, in this week as well we did activites related to NLP but instead of uisng RNN based model like LSTM/GRU we used **Transformer Encoder**. 
+<br>
+Some Advantages of using transformer instead of RNN models are:
+1. It does not suffers from vanishing gradient like RNN model.
+2. It can handle long term dependency. 
+3. Transformer Encoder are better suited for transfer learning compared to LSTM/GRU models.
