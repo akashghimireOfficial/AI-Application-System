@@ -1,5 +1,5 @@
 
-# AI Application System Weekly Assignment
+# AI Application System 
 
 
 ````
@@ -7,6 +7,9 @@ Name: Akash Ghimire
 student id: 12194814
 
 ````
+
+>**For each week task respective folders have been created. Each folders contains the jupyter notebook files that we practised during the class. If there were more than one coding session in a single week then that respective week folders will have multiple jupyter notebook files.** 
+
 
 <br>
 
