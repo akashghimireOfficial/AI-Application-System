@@ -26,9 +26,6 @@ To make the task simpler i have created separate jupyter notebook for each of th
 
 
 
-<br>
-
-
 ## Week 6
 In this week we have two lab session. In the *first lab session* we learn to train custom made dataset using tensorflow. The training include implementation of a simple linear regression algorithm.  
 In the first lab session of this week we learned the following: 1)  training a simple **Linear Regression** model on custom training datasets and 2) training a model on **MNIST**
@@ -50,6 +47,10 @@ In this week we learned about theoretical and coding aspects of Convulutional Ne
 > The CIFAR-10 dataset (Canadian Institute for Advanced Research, 10 classes) is a subset of the Tiny Images dataset and consists of 60000 32x32 color images. The images are labelled with one of 10 mutually exclusive classes: airplane, automobile (but not truck or pickup truck), bird, cat, deer, dog, frog, horse, ship, and truck (but not pickup truck). There are 6000 images per class with 5000 training and 1000 testing images per class.
 
 
+<br>
+
+
+## Week 9
 
 
 
