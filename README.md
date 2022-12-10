@@ -56,6 +56,13 @@ In the first session of this week we learn to predict the housing price using li
 
 In the second session of this week, we learn how to handle overfitting during training of dataset. We learned about **Regularization, L2 and Dropout Layer** and implemented them in the code aswell. At the end we analyse the effective of Dropout and Regularization on overfitting and training problem.
  
+<br>
 
+## Week 10
+In this week we learned about **transfer learning** and image classification using CNN with transfer learning. 
+<br>
+In the first session, we learn to use transfer learning on **pytorch** framework. For this purpose we used ResNet backbone to predict the image of a dog. 
+
+In the second and third session, we learn how to use *sequential and functional* API in **tensorflow** framework.
 
   
