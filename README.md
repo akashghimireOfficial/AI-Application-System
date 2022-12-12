@@ -62,16 +62,16 @@ In the second session of this week, we learn how to handle overfitting during tr
 <br>
 
 ## Week 10
-In this week we learned about **transfer learning** and image classification using CNN with transfer learning. 
+In this week we learned about **transfer learning** and image classification using CNN with **transfer learning.** 
 <br>
-In the first session, we learn to use transfer learning on **pytorch** framework. For this purpose we used ResNet backbone to predict the image of a dog. 
+In the first session, we learn to use transfer learning on **pytorch** framework. For this purpose we used **ResNet** backbone to predict the image of a dog. 
 
 In the second and third session, we learn how to use *sequential and functional* API in **tensorflow** framework.
 
 <br>
 
 ## Week 11
-In this week we learn about recurrent neural network (RNN).
+In this week we learn about **Recurrent neural network (RNN).**
 > RNN: A recurrent neural network is a class of artificial neural networks where connections between nodes can create a cycle, allowing output from some nodes to affect subsequent input to the same nodes. This allows it to exhibit temporal dynamic behavior. (src: wikipedia)
 
 In this sesssion, we predicted the sales of books using RNN network. 
@@ -82,14 +82,14 @@ In this sesssion, we predicted the sales of books using RNN network.
 
 In this week we learn about **Weather forecast using RNN, LSTM.**
 <br>
-Furthermore, in the coding session we also learned things like how we can build simple RNN using numpy. We learn **how to use LSTM,GRU, and Bidirectional LSTM using keras.**
+Furthermore, in the coding session we also learned things like how we can build **simple RNN using numpy**. We learn **how to use LSTM,GRU, and Bidirectional LSTM using keras.**
 
 <br>
 
 
 ## Week 13
 
-In this week we learned about Natural Language Processing (NLP).
+In this week we learned about **Natural Language Processing (NLP).**
 > Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. (src:Wikipedia)
 
 In this week, we learn how words are reprensented in machine learning. We learn about important aspect of NLP such as  **word embedding, text vectorization, One hot encodding.**  
