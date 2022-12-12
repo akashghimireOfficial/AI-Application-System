@@ -80,7 +80,7 @@ In this sesssion, we predicted the sales of books using RNN network.
 
 ## Week 12
 
-In this week we learn about **Weather forecast using RNN, LSTM. **
+In this week we learn about **Weather forecast using RNN, LSTM.**
 <br>
 Furthermore, in the coding session we also learned things like how we can build simple RNN using numpy. We learn **how to use LSTM,GRU, and Bidirectional LSTM using keras.**
 
