@@ -10,6 +10,10 @@ student id: 12194814
 
 >**For each week task respective folders have been created. Each folders contains the jupyter notebook files that we practised during the class. If there were more than one coding session in a single week then that respective week folders will have multiple jupyter notebook files.** 
 
+<br>
+
+## Week 2
+In this week, we learned how to **use google colab**. Also, we were introduced to **kaggle** and how to **download kaggle dataset**.
 
 <br>
 
